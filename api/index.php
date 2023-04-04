@@ -23,7 +23,7 @@ try {
 	$mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
 	$mail->Username   = 'leonardo.fcosta69824@gmail.com';                     //SMTP username
-    $mail->Password   = '-riitighoxhrptuna-';                               //SMTP password gerado exclusivo para este envio, não é a mesma senha do email.
+    $mail->Password   = 'riitighoxhrptuna';                               //SMTP password gerado exclusivo para este envio, não é a mesma senha do email.
     $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = 
 
     //Recipients
