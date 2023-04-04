@@ -12,5 +12,4 @@ Posteriormente eu irei melhorar os comentários que estão misturados os coment�
 
 **Documentação do PHPMailer**: https://github.com/PHPMailer/PHPMailer
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=leonardo-ferreira-costa)
 
